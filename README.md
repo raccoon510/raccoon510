@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Roshani Jawale
-- 👀 I’m interested in Artificial Intelligence(Dream Field)- currently working on Web & Application development
-- 🌱 I’m currently learning Machine Learning from scratch
+Backend Engineer at Kodo Technologies with a flair for crafting robust and secure systems. Proficient in TypeScript, Node.js, Python, and cloud technologies. Passionate about optimizing microservices, collaborating with clients, and staying at the forefront of tech trends. Let's code and innovate together!
+
 - 📫 How to reach me -> roshanijawale@gmail.com
 
 <!---
